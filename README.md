@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm from Ukraine 🇺🇦<br><br>- 👨‍💻 I’m currently working on <a href="https://gr8.tech/">GR8Tech</a><br><br>- 🧰 I’m currently working with React and NestJS.<br><br>- 📚 I’m currently learning NestJS, Ruby, Vue.</p>
+<p align="left">I'm from Ukraine 🇺🇦<br><br>- 👨‍💻 I’m currently working on <a href="https://gr8.tech/">GR8Tech</a><br><br>- 🧰 I’m currently working with React and NestJS.<br><br>- 📚 I’m currently improve my knowledges of NestJS and NextJS.</p>
 
 ###
 
