@@ -1,133 +1,98 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/dmytro-didyk-79a62114b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/dimadidyk0/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25" alt="leetcode logo"  />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" height="25" alt="LeetCode" />
   </a>
 </div>
-
-###
 
 <h1 align="center">Hi 👋, I'm Dmytro Didyk</h1>
 
-###
+<h3 align="center">
+Senior Frontend Engineer • Vue • Nuxt • React • TypeScript
+</h3>
 
-<h3 align="center">Making ideas reality, one deployment at a time</h3>
+I'm a frontend engineer from Ukraine 🇺🇦, currently working at **Rakuten** 🇯🇵.
 
-###
-
-<p align="left">I'm from Ukraine 🇺🇦<br><br>- 👨‍💻 I’m currently working on <a href="https://gr8.tech/">GR8Tech</a><br><br>- 🧰 I’m currently working with React and NestJS.<br><br>- 📚 I’m currently improve my knowledges of NestJS and NextJS.</p>
-
-###
-
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=dimadidyk0.dimadidyk0&left_color=darkblue"  />
-
-###
+- 🚀 Building modern web applications with **Vue 3**, **Nuxt**, **TypeScript**, and **React**
+- 💚 Passionate about frontend architecture, performance, DX, and clean code
+- 🌱 Currently diving deeper into the Vue ecosystem, SSR, testing, and system design
+- 🇯🇵 Learning Japanese while working in Japan
 
 <br clear="both">
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=dimadidyk0.dimadidyk0&left_color=darkblue" />
 
 <br clear="both">
+
+## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="48" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="48" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=babel" height="48" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="48" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gatsby" height="48" alt="gatsby logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="48" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="48" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gulp" height="48" alt="gulp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="48" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ruby" height="48" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="48" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="48" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="48" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="48" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="48" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="48" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="48" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="48" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sketchup" height="48" alt="sketch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="48" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="48" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="48" alt="vuejs logo"  />
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" />
+
+<img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
+
+<img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" />
+
+<img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" />
+
+<img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue" />
+
+<img src="https://skillicons.dev/icons?i=nuxt" height="48" alt="Nuxt" />
+
+<img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
+
+<img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" />
+
+<img src="https://skillicons.dev/icons?i=redux" height="48" alt="Redux" />
+
+<br>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
+
+<img src="https://skillicons.dev/icons?i=nestjs" height="48" alt="NestJS" />
+
+<img src="https://skillicons.dev/icons?i=express" height="48" alt="Express" />
+
+<img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" />
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
+
+<img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis" />
+
+<img src="https://skillicons.dev/icons?i=jest" height="48" alt="Jest" />
+
+<br>
+
+<!-- DevOps -->
+<img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" />
+
+<img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" />
+
+<img src="https://skillicons.dev/icons?i=nginx" height="48" alt="Nginx" />
+
+<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+
+<img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+
+<img src="https://skillicons.dev/icons?i=gitlab" height="48" alt="GitLab" />
+
+<br>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" />
+
+<img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
+
+</div>
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimadidyk0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimadidyk0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=dimadidyk0&theme=dark&hide_border=true" height="220" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dimadidyk0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
