@@ -93,6 +93,4 @@ I'm a frontend engineer from Ukraine 🇺🇦, currently working at **Rakuten** 
 
 ## 🔥 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dimadidyk0&theme=dark&hide_border=true" height="220" />
-</div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=dimadidyk0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div>
