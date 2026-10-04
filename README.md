@@ -7,18 +7,18 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Dmytro Didyk</h1>
+<h1 align="center">Hi 👋, I'm Dima</h1>
 
 <h3 align="center">
-Senior Frontend Engineer • Vue • Nuxt • React • TypeScript
+Fullstack Engineer • Team Lead • React, Vue, Svelte
 </h3>
 
-I'm a frontend engineer from Ukraine 🇺🇦, currently working at **Rakuten** 🇯🇵.
+I'm a fullstack engineer from Ukraine 🇺🇦, currently working at **Rakuten** 🇯🇵.
 
-- 🚀 Building modern web applications with **Vue 3**, **Nuxt**, **TypeScript**, and **React**
+- 🚀 Building modern web applications with modern SSR/CSR frameworks
 - 💚 Passionate about frontend architecture, performance, DX, and clean code
-- 🌱 Currently diving deeper into the Vue ecosystem, SSR, testing, and system design
-- 🇯🇵 Learning Japanese while working in Japan
+- 🌱 Currently working on my personal projects
+- 🇯🇵 Learning Japanese while working in Japan (current level is ~N4)
 
 <br clear="both">
 
